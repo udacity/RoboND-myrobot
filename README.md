@@ -1,6 +1,6 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # RoboND-myrobot
-myrobot project part of RoboND Gazebo Basics lesson
+The **myrobot** project part of RoboND Gazebo Basics lesson
 
 ### Directory Structure
 ```
@@ -54,7 +54,7 @@ $ gazebo myworld
 ```
 
 ### Output
-The welcome message and the Gazebo World should both launch 
+The hello world message and the two-wheeled robot inside a Gazebo World should both launch as follow: 
 ![alt text](images/output.png)
 
 
