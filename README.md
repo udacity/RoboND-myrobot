@@ -1,11 +1,11 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 # RoboND-myrobot
-The **myrobot** project part of RoboND Gazebo Basics lesson. The purpose of this project is to learn how to build a two-wheeled robot model with the Model Editor tool in Gazebo. Include this model in an empty Gazebo World. And, finally write a plugin to interact with this world.  
+The **myrobot** lab part of RoboND Gazebo Basics lesson. The purpose of this lab is to learn how to build a two-wheeled robot model with the Model Editor tool in Gazebo. Include this model in an empty Gazebo World. And, finally write a plugin to interact with this world.  
 
 ### Directory Structure
 ```
-    .myrobot                           # myrobot project main folder 
+    .myrobot                           # myrobot lab main folder 
     ├── images                         # Code output image                   
     │   ├── output.png
     ├── model                          # Model files of the two-wheeled robot
@@ -28,7 +28,7 @@ $ sudo apt-get update
 $ sudo apt-get upgrade -y
 ```
 
-#### Step 2 Clone the project folder in /home/workspace/
+#### Step 2 Clone the lab folder in /home/workspace/
 ```sh
 $ cd /home/workspace/
 $ git clone https://github.com/udacity/RoboND-myrobot
